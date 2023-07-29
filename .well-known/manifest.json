@@ -1,0 +1,7 @@
+{
+    "name": "Legal Research API",
+    "description": "A plugin for legal research on Indian laws. Assists lawyers, legal students, and researchers.",
+    "icon": "https://lomashbiduaofficial.github.io/icon.png",
+    "documentation": "https://lomashbiduaofficial.github.io/documentation.html",
+    "api": "https://lomashbiduaofficial.github.io/openapi-spec.yaml"
+}
